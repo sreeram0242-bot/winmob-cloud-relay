@@ -1,0 +1,24 @@
+{
+  "name": "winmob-cloud-relay",
+  "version": "1.0.0",
+  "description": "High-performance WebSocket Cloud Relay for WinMob Universal Clipboard & Continuity",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "winmob",
+    "clipboard",
+    "relay",
+    "render",
+    "continuity"
+  ],
+  "author": "WinMob",
+  "license": "MIT"
+}
